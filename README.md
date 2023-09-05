@@ -3,7 +3,10 @@ In this project, I created a sudoku solver using stacks. The solver combined all
 
 
 
-https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/68743ed0-ca4d-437a-a051-8a11ea7361b6
+
+
+https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/c089a11b-5a54-46ab-ba5f-cb2bd1c6b717
+
 
 
 
