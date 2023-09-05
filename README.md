@@ -7,6 +7,6 @@ The solver starts in the top left corner, it then moves to the right finding the
 
 <img width="269" alt="Screen Shot 2023-09-05 at 4 12 28 PM" src="https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/b022edfe-aba7-4f63-bcc3-1e0b1a68ef3c">
 
-My code also easilys adapts and can create any size board and specify the number of locker numbers. In the image below, I created a 6 by 6 sudoku board with 10 fixed numbers. 
+My code also easilys adapts and can create any size board and specify the number of locked numbers. In the image below, I created a 6 by 6 sudoku board with 10 fixed numbers. 
 
 <img width="269" alt="Screen Shot 2023-09-05 at 5 22 10 PM" src="https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/a1915d08-af21-48a5-b516-21119c1d536c">
