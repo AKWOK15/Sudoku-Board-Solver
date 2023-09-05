@@ -6,3 +6,7 @@ https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/c089a11b-5a54-46
 The solver starts in the top left corner, it then moves to the right finding the next zero value and determining which number (1-9) can replace this zero while still satisfying the rules of sudoku. It will continue to add values to the board and therefore the stack until it hits a dead end where the current values on the board cannot solve the puzzle. Consequently, it pops the top most value off the stack to try other combinations of values to find a different solution. The sudoku solver takes a while because in this case, 73 blank squares (91 overall squares - 18 predefined) exist and each square can have a value between 1 and 9. So here's a final picture of the solved board.
 
 <img width="269" alt="Screen Shot 2023-09-05 at 4 12 28 PM" src="https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/b022edfe-aba7-4f63-bcc3-1e0b1a68ef3c">
+
+My code also easilys adapts and can create any size board and specify the number of locker numbers. In the image below, I created a 6 by 6 sudoku board with 10 fixed numbers. 
+
+<img width="269" alt="Screen Shot 2023-09-05 at 5 22 10 PM" src="https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/a1915d08-af21-48a5-b516-21119c1d536c">
