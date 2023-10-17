@@ -22,5 +22,5 @@ My code also easilys adapts and can create any size board and specify the number
 1. Download all the above files into a folder
 2. Open the folder in your favorite IDE or in the terminal
 3. Run "javac *.java" to compile all the files
-4. Run java Sudoku text filename to solve a given text file where filename is the name of your file
-5. OR run java sudoku x to solve a board a board where x is the number of initial values
+4. Run "java Sudoku text filename" to solve a given text file where filename is the name of your file
+5. OR run "java sudoku x" to solve a board a board where x is the number of initial values on the board
