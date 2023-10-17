@@ -1,4 +1,5 @@
 # Sudoku Board Solver
+## About This Project
 Solving sudoku boards always seemed like an amazing hobby until after hours of writing numbers in tiny little boxes only to erase them seconds later, I realized that maybe I should stick to coding. But then I thought, what if my coding skills could help in my sudoku endeavors, and so this project was born. In the following video, I used a text file to determine which numbers (the ones in blue) the solver had to work around. Here's an example of my solver hard at work.
 
 https://github.com/AKWOK15/Sudoku-Board-Solver/assets/121518425/c089a11b-5a54-46ab-ba5f-cb2bd1c6b717
