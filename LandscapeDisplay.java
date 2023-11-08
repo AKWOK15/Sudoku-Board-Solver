@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 /*
- * Aidan Kwok
+ * Provided by Professor Max Bender
  * Displays a Board graphically using Swing. In this version, we use a Board
  * class rather than a Landscape) and we do not make the assumption that
  * we are displaying a grid.
